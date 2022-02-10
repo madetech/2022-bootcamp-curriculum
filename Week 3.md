@@ -2,7 +2,7 @@
 
 ## Week outcomes
 
-Goal: Get use to TDD and Use Case Oriented Design on a project
+Goal: Get use to Test Driven Development (TDD) and Use Case Oriented Design on a project
 
 * Transformation priority premise
 * Pull requests and code reviews

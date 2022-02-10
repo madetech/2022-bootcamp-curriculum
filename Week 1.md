@@ -6,7 +6,7 @@ Goal: Get introduced to fundemental tooling and gain an understanding of how to 
 
 * Tooling setup
 * Version control
-* TDD
+* Test Drive Development (TDD)
 * Agile
 * Retrospectives
 

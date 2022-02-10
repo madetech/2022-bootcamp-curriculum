@@ -2,7 +2,7 @@
 
 ## Week outcomes
 
-Goal: Get to grips with the basics of TDD, BDD and be able to write tests unguided.
+Goal: Get to grips with the basics of Test Driven Development (TDD), Behaviour Driven Development (BDD) and be able to write tests unguided.
 
 * Introduction to User Research
 * Debugging
