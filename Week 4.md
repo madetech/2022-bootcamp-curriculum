@@ -34,4 +34,3 @@ Goal: Deepening understanding of agile and lean principles and how these apply t
 * Mob Programming [Mars Rover Kata](https://learn.madetech.com/katas/mars-rover)
 * Retrospective
   * Academy member to facilitate
-* Showcase during Learn Tech

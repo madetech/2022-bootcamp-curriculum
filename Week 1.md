@@ -25,7 +25,6 @@ Goal: Get introduced to fundemental tooling and gain an understanding of how to 
   * VSCode
   * Docker desktop
 * Overview of all of these tools and what they’re for
-Tuesday
 
 ## Tuesday
 
