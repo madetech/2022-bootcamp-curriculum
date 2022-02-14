@@ -28,10 +28,8 @@ Goal: Get introduced to fundemental tooling and gain an understanding of how to 
 
 ## Tuesday
 
-* Pairing/mobbing workshop
-  * Discussion around the purpose of pair programming
-  * Best practices
-* Git workshop
+* Function Presentation
+* [Git workshop](https://learn.madetech.com/guides/02-Git/) we will be replacing the Learn Enough Git to be dangerous with the modified version included [here](Exercises/LearnEnoughGit.md)
 * Daily retrospective
 
 ## Wednesday
